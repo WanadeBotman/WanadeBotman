@@ -32,8 +32,7 @@ If I have an idea, I like turning it into a real, working system 🚀
 ### 📌 Featured Work
 I’ve worked on multiple **academic and personal projects**, including:
 - Modern **personal portfolio websites**
-- **Student management systems** using OOP principles
-- **Corporate business websites** with responsive layouts and clean UI
+- Activities **Learning HTML,CSS**
 
 Check out my pinned repositories — they showcase my growth and skills 📂
 
